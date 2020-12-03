@@ -1,0 +1,23 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "it is a memories project . for my learning perpuose",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "memories",
+    "project"
+  ],
+  "author": "imran",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.1",
+    "nodemon": "^2.0.6"
+  }
+}
