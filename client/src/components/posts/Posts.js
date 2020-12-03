@@ -1,6 +1,6 @@
 import React from 'react'
 import Post from './post/Posts';
-import useStyle from './styles';
+import useStyle from './style';
 const Posts = () => {
     const classes = useStyle();
     return (

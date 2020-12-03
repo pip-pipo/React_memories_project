@@ -1,5 +1,5 @@
 import React from 'react'
-import useStyle from './styles';
+import useStyle from './style';
 const From = () => {
     const classes = useStyle();
     return (
